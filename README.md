@@ -3,7 +3,7 @@
 This project hosts the PHP client library for the various SOAP-based Ads APIs
 (AdWords and Ad Manager) at Google.
 
-> Welcome to the new ads API PHP client library!
+> Welcome to the new ads API PHP client library!~~
 >
 > The ads API PHP client library has been rewritten. If you're new to this
 > library, read on! If you're already using our library, you may want to take a
